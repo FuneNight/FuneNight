@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 Deepening my understanding of data science by mastering skills such as Python, SQL, Excel, Tableau, Power BI, Pandas, and AI/ML.<br><br>👯 I’m looking to collaborate on:<br>Projects related to system architecture, software development, and user-centric design.<br><br>🤝 I’m looking for help with:<br>Gaining deeper insights into machine learning and data analysis techniques.<br><br>🌱 I’m currently learning:<br>In-depth data analysis with tools such as MySQL, Python, Tableau, and Power BI through a comprehensive data analyst course.<br><br>💬 Ask me about:<br>My journey as a third-year software engineering student at McMaster University, and my experiences with coding and building robust applications.<br><br>⚡ Fun fact:<br>I have an orange cat named Cheeto, I love martial arts, and I have a black belt in Taekwondo.
+About Me :<br>🔭 I’m currently working on:<br>Exploring the fields of data science by learning skills like Python, SQL, Excel, Tableau, Power BI, Pandas, and AI/ML.<br><br>👯 I’m looking to collaborate on:<br>Projects related to system architecture, software development, and user-centric design.<br><br>🤝 I’m looking for help with:<br>Gaining deeper insights into machine learning and data analysis techniques.<br><br>🌱 I’m currently learning:<br>In-depth data analysis with tools such as MySQL, Python, Tableau, and Power BI through a comprehensive data analyst course.<br><br>💬 Ask me about:<br>My journey as a third-year software engineering student at McMaster University, and my experiences with coding and building robust applications.<br><br>⚡ Fun fact:<br>I have an orange cat named Cheeto, I love martial arts, and I have a black belt in Taekwondo.
 
 
 ## 🌐 Socials:
@@ -13,5 +13,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FuneNight&icon=1&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
